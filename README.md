@@ -15,4 +15,4 @@ i used:
 ![Screenshot 2025-05-13 185017](https://github.com/user-attachments/assets/8ce36e92-4b38-4183-8b23-25aee5580f94)
 ![Screenshot 2025-05-13 185207](https://github.com/user-attachments/assets/25a3badb-6e5e-4899-8c98-7e99b61e6568)
 
-my slack username is @art3mis9703
+my slack username is @Art3mis
