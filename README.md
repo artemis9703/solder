@@ -11,8 +11,8 @@ i used:
 1 push button
 1 battery holder
 
-![Screenshot 2025-05-15 091727](https://github.com/user-attachments/assets/8ef1956b-65b9-438d-88ba-1543c66cf83f)
-![Screenshot 2025-05-15 091715](https://github.com/user-attachments/assets/89866838-f590-4582-aa17-e8e56daf8f5e)
+![Screenshot 2025-05-15 091727](https://github.com/user-attachments/assets/792bfd59-e6eb-476d-bcff-eaf89a2ecf27)
+![Screenshot 2025-05-15 091715](https://github.com/user-attachments/assets/8af29bb4-c734-4819-97a9-71cfe3f6ad94)
 ![Screenshot 2025-05-14 101659](https://github.com/user-attachments/assets/aec2a72b-8f58-431d-acc3-8d0eeaa46a47)
 
 my slack username is @Art3mis
